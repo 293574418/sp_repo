@@ -15,5 +15,4 @@ public class Item {
 	//77
 	private Integer number;
 	//123123123123
-	//555
 }
