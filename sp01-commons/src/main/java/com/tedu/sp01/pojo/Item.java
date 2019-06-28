@@ -10,6 +10,8 @@ import lombok.NoArgsConstructor;
 public class Item {
 	//编号89757
 	private Integer id;
+	//563
 	private String name;
+	//88
 	private Integer number;
 }
