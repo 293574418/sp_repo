@@ -12,7 +12,7 @@ public class Item {
 	private Integer id;
 	//563
 	private String name;
-	//77
+	//7
 	private Integer number;
 	
 }
