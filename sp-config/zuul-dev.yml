@@ -12,6 +12,11 @@ eureka:
 #配置 zuul 开启重试，并配置 ribbon 重试参数
 zuul:
   retryable: true
+rabbitmq:
+    host: 192.168.70.133
+    port: 5672
+    username: admin
+    password: admin  
  # routes:
   #  item-service: /item-service/**
   #  user-service: /user-service/**
